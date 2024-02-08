@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "KengCraft.aternos.me",
+    "port": 48431,
+    "version": "1.20.61.01"
   },
 
   "position": {
